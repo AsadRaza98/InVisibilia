@@ -1,7 +1,6 @@
 # Privacy Policy
 
-**Last updated: [29-05-2026]**
-
+**Last updated: 29-05-2026**
 
 This Privacy Policy explains how **Lil' Bits** ("we", "us", "our")
 collects, uses, and protects your information when you use **InVisibilia** (the "App").
@@ -9,8 +8,7 @@ collects, uses, and protects your information when you use **InVisibilia** (the 
 We are the **data controller** for the purposes of the EU General Data Protection Regulation
 (GDPR) and applicable Italian data protection law.
 
-**Contact:** [CONTACT EMAIL]
-**Address:** [POSTAL ADDRESS, optional but recommended]
+**Contact:** gennaro.biagino@gmail.com
 
 ---
 
@@ -121,10 +119,9 @@ Standard Contractual Clauses) to protect your information.
 
 We keep your personal data only as long as necessary for the purposes described:
 
-- **Account data** — for as long as your account is active *[specify period after deletion]*.
-- **Uploaded content and environments** — until you or a curator removes it *[specify]*.
-
-*[Replace the bracketed periods with your real retention schedule.]*
+- **Account data** — for as long as your account is active.
+- **Uploaded content and environments** — for the duration of the associated exhibition; once
+  the exhibition ends, the content may be removed.
 
 ---
 
@@ -139,21 +136,13 @@ Under the GDPR you have the right to:
 - request **data portability**; and
 - **withdraw consent** at any time, without affecting prior lawful processing.
 
-To exercise any of these rights, contact us at **[CONTACT EMAIL]**. You also have the right to
+To exercise any of these rights, contact us at **gennaro.biagino@gmail.com**. You also have the right to
 lodge a complaint with your supervisory authority — in Italy, the **Garante per la protezione
 dei dati personali** (https://www.garante.it).
 
 ---
 
-## 9. Children's privacy
-
-The App is not directed to children under **[AGE, e.g. 16 in Italy]**, and we do not knowingly
-collect their personal data. If you believe a child has provided us data, contact us and we
-will delete it.
-
----
-
-## 10. Security
+## 9. Security
 
 We use reasonable technical and organizational measures to protect your data, including the
 security controls of Apple's iCloud/CloudKit platform. No method of transmission or storage is
@@ -161,17 +150,16 @@ security controls of Apple's iCloud/CloudKit platform. No method of transmission
 
 ---
 
-## 11. Changes to this policy
+## 10. Changes to this policy
 
 We may update this Privacy Policy from time to time. We will post the updated version with a
 new "Last updated" date and, where required, notify you within the App.
 
 ---
 
-## 12. Contact us
+## 11. Contact us
 
 If you have any questions about this Privacy Policy or your data, contact:
 
 **Lil' Bits**
-Email: **[CONTACT EMAIL]**
-Address: **[POSTAL ADDRESS]**
+Email: **gennaro.biagino@gmail.com**
